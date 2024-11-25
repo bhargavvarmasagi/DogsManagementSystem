@@ -10,10 +10,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 
 @SpringBootApplication
-public class DogsManagementSystemApplication {
+public class DogManagementSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DogsManagementSystemApplication.class, args);
+		SpringApplication.run(DogManagementSystemApplication.class, args);
 	}
 
 }
